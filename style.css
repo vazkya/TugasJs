@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(to right,#bfd5ff,#eabfff);
+    font-family: poppins, sans-serif;
+}
+input{
+    background-color: #aacaff;
+}
+button{
+    background-color: #dfd5ff;
+}
+label{
+    background-image: linear-gradient(to right,#bfd5ff,#eabfff);
+    color: #6a78ff;
+}
